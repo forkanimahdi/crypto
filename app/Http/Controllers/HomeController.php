@@ -9,7 +9,7 @@ class HomeController extends Controller
 {
     public function index()
     {
-        $apiKey = 'ed5dca86-188a-4981-81cb-622a21bf3e40';
+        $apiKey = 'USE YOUR API KEY HERE';
         $url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?CMC_PRO_API_KEY=' . $apiKey;
         $response = Http::get($url);
         if ($response->successful()) {
