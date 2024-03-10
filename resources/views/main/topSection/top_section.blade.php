@@ -32,13 +32,13 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide px-2" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <a href="" alt class="carousel-item active">
-                    <img src="{{ asset('image/crypto1.webp') }}" class="d-block w-100 rounded-xl" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIsApkeIWOPwCs1bcOhavIzuuAlE7bA0z8A&usqp=CAU" class="d-block w-100 rounded-xl" alt="...">
                 </a>
                 <a href="" alt class="carousel-item">
-                    <img src="{{ asset('image/crypto1.webp') }}" class="d-block w-100 rounded-xl" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIsApkeIWOPwCs1bcOhavIzuuAlE7bA0z8A&usqp=CAU" class="d-block w-100 rounded-xl" alt="...">
                 </a>
                 <a href="" alt class="carousel-item">
-                    <img src="{{ asset('image/crypto1.webp') }}" class="d-block w-100 rounded-xl" alt="...">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIsApkeIWOPwCs1bcOhavIzuuAlE7bA0z8A&usqp=CAU" class="d-block w-100 rounded-xl" alt="...">
                 </a>
             </div>
         </div>
